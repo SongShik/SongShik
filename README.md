@@ -11,7 +11,7 @@ Já atuei em diversas empresas e projetos de diferentes tamanhos, e meu github �
 <br>
 
 
-## 🤝Obrigado pela visita!
+## 🤝Me conheça melhor nos links abaixo
 <div align="center">
   <a href="https://www.linkedin.com/in/song-shik/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://songshik.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
