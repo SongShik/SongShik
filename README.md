@@ -1,16 +1,19 @@
-## Hi there 👋
+![Snake animation](https://github.com/SongShik/SongShik/blob/output/github-contribution-grid-snake.svg)
 
-<!--
-**SongShik/SongShik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Oi, meu nome é Song Shik, e sou um Desenvolvedor web Front-end 👋
 
-Here are some ideas to get you started:
+Trabalho principalmente com Next, React, VueJS, Node, CI/CD, AWS e metodologias ágeis. Sou apaixonado por desenvolvimento e me destaco ao integrar tecnologia com soluções estratégicas para negócios, unindo código à resolução de problemas empresariais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Já atuei em diversas empresas e projetos de diferentes tamanhos, e meu github é um grande Hello Word para teste, aqui você vai encontrar projetos construidos com:
+
+<div align="center">🔸React🔸Next🔸Vue🔸Node🔸Typescript🔸CI/CD🔸AWS </div>
+<br>
+
+
+## 🤝Obrigado pela visita!
+<div align="center">
+  <a href="https://www.linkedin.com/in/songshikv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://songshik.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:song-shik@homail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+</div>
