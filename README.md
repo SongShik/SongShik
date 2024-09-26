@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/SongShik/SongShik/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SongShik/SongShik/blob/output/github-snake.svg)
 
 ## Oi, meu nome é Song Shik, e sou um Desenvolvedor web Front-end 👋
 
