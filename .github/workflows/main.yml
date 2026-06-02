@@ -6,8 +6,8 @@ name: Generate Snake
 
 on:
   schedule:
-      # every 6 hours
-    - cron: "0 */6 * * *"
+      # This had been running every 6 hours for two years 🫠. In a aleatory day, I noticed it, so now I have changed it to once six month.
+    - cron: "0 0 1 */6 *"
 
 # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
