@@ -2,8 +2,7 @@
 
 ## Oi, meu nome é Song Shik, e sou um Desenvolvedor web Front-end 👋
 
-Trabalho principalmente com Next, React, VueJS, Node, CI/CD, AWS e metodologias ágeis. Sou apaixonado por desenvolvimento e me destaco ao integrar tecnologia com soluções estratégicas para negócios, unindo código à resolução de problemas empresariais.
-
+Trabalho principalmente com liderença de times, sem deixar de lado o desenvolvimento hands-on. Trabalho com Next, React, VueJS, Node, CI/CD, AWS e metodologias ágeis. Sou apaixonado por desenvolvimento e me destaco ao integrar tecnologia com soluções estratégicas para negócios, unindo código à resolução de problemas empresariais.
 
 Já atuei em diversas empresas e projetos de diferentes tamanhos, e meu github é um grande Hello Word para teste, aqui você vai encontrar projetos construidos com:
 
